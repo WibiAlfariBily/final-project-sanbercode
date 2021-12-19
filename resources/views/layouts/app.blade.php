@@ -28,9 +28,8 @@
 
 </head>
 
-{{--
 
-<body style="background-image: url({{asset('oriental-tiles/oriental-tiles.png')}})"> --}}
+    
 
     <body>
         <div id="app">
